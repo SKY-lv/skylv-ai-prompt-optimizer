@@ -1,13 +1,23 @@
-# skylv-ai-prompt-optimizer
+# Ai Prompt Optimizer
 
-ai prompt optimizer - OpenClaw Skill
+> ai prompt optimizer - OpenClaw Skill
 
 ## Install
-```
+
+```bash
 openclaw skills install skylv-ai-prompt-optimizer
 ```
 
-## Description
-An OpenClaw skill for ai prompt optimizer.
+Or from ClawHub:
 
-MIT License © SKY-lv
+```
+https://clawhub.ai/skylv-ai-prompt-optimizer
+```
+
+## About
+
+This skill is part of the [SKY-lv OpenClaw Skills Collection](https://github.com/SKY-lv/awesome-openclaw-skills).
+
+## License
+
+MIT © SKY-lv
